@@ -1,0 +1,16 @@
+addict
+future
+lmdb
+numpy >= 1.17
+opencv - python
+Pillow
+pyyaml
+requests
+scikit - image
+scipy
+tb - nightly
+oneflow
+flowvision
+tqdm
+yapf
+lmdb
